@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1010" data-name="Rectangle 1010" width="102" height="102" transform="translate(1326 4422)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon_storage" transform="translate(-1326 -4422)" clip-path="url(#clip-path)">
+    <g id="box" transform="translate(1327.001 4403)">
+      <g id="Group_8274" data-name="Group 8274" transform="translate(0 25)">
+        <g id="Group_8273" data-name="Group 8273" transform="translate(0 0)">
+          <path id="Path_6219" data-name="Path 6219" d="M91.471,345H77.059A2.059,2.059,0,0,0,75,347.059v12.353a2.059,2.059,0,0,0,2.059,2.059H91.471a2.059,2.059,0,0,0,2.059-2.059V347.059A2.059,2.059,0,0,0,91.471,345Zm-2.059,12.353H79.118v-8.235H89.412Z" transform="translate(-59.559 -279.118)" fill="#f9556d"/>
+          <rect id="Rectangle_1004" data-name="Rectangle 1004" width="8" height="4" transform="translate(37.882 69.057)" fill="#f9556d"/>
+          <rect id="Rectangle_1005" data-name="Rectangle 1005" width="24" height="5" transform="translate(37.882 75.057)" fill="#f9556d"/>
+          <rect id="Rectangle_1006" data-name="Rectangle 1006" width="8" height="3" transform="translate(77.882 78.057)" fill="#f9556d"/>
+          <rect id="Rectangle_1007" data-name="Rectangle 1007" width="8" height="4" transform="translate(77.882 71.057)" fill="#f9556d"/>
+          <path id="Path_6220" data-name="Path 6220" d="M100.755,72.671,93.549,53.112a2.059,2.059,0,0,0-1.932-1.347H79.264V27.059A2.059,2.059,0,0,0,77.206,25H23.676a2.059,2.059,0,0,0-2.059,2.059V51.765H9.264a2.059,2.059,0,0,0-1.919,1.313L.14,71.607a2.059,2.059,0,0,0,1.919,2.8H7.206v39.118a2.059,2.059,0,0,0,2.059,2.059H91.617a2.059,2.059,0,0,0,2.059-2.059V75.441h5.147a2.059,2.059,0,0,0,1.932-2.771ZM25.735,29.118H58.676v6.176H25.735Zm0,10.294H58.676V51.765H25.735ZM5.068,70.294l5.6-14.412H68.019l-5.6,14.412Zm63.9,41.176H11.323V74.412h52.5A2.059,2.059,0,0,0,65.742,73.1l3.228-8.3ZM62.794,51.765V29.118H75.147V51.765H62.794Zm26.765,59.706H73.088V62.979l5.345,11.284a2.059,2.059,0,0,0,1.861,1.177h9.265ZM81.6,71.324,74.282,55.882h15.9L95.87,71.324Z" transform="translate(0 -25)" fill="#f9556d"/>
+          <rect id="Rectangle_1008" data-name="Rectangle 1008" width="7" height="1" transform="translate(64.882 10.057)" fill="#f9556d"/>
+          <rect id="Rectangle_1009" data-name="Rectangle 1009" width="7" height="5" transform="translate(64.882 13.057)" fill="#f9556d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="28" viewBox="0 0 30 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2af598"/>
+      <stop offset="1" stop-color="#009efd"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_mobile" transform="translate(0 -16)">
+    <g id="Group_8506" data-name="Group 8506" transform="translate(0 16)">
+      <g id="Group_8505" data-name="Group 8505" transform="translate(0 0)">
+        <path id="Path_12377" data-name="Path 12377" d="M28.5,29.5v-11A2.5,2.5,0,0,0,26,16H4a2.5,2.5,0,0,0-2.5,2.5V26A1.5,1.5,0,0,0,0,27.5v15A1.5,1.5,0,0,0,1.5,44h11A1.5,1.5,0,0,0,14,42.5H18.19a1.5,1.5,0,0,0,1.447-1.895L18.654,37H21.5v5.5A1.5,1.5,0,0,0,23,44h5.5A1.5,1.5,0,0,0,30,42.5V31A1.5,1.5,0,0,0,28.5,29.5ZM13,42.5a.5.5,0,0,1-.5.5H1.5a.5.5,0,0,1-.5-.5v-1H13Zm0-2H1v-11H13Zm0-12H1v-1a.5.5,0,0,1,.5-.5h11a.5.5,0,0,1,.5.5Zm5.673,12.368a.5.5,0,0,1-.482.632H14v-1h4.573ZM14,39.5V37h3.618l.682,2.5ZM21.5,36H14V33h7.5Zm0-5v1H14V27.5A1.5,1.5,0,0,0,12.5,26H2.5V18.5A1.5,1.5,0,0,1,4,17H26a1.5,1.5,0,0,1,1.5,1.5v11H23A1.5,1.5,0,0,0,21.5,31ZM29,42.5a.5.5,0,0,1-.5.5H23a.5.5,0,0,1-.5-.5v-1H29Zm0-2H22.5V33H29ZM29,32H22.5V31a.5.5,0,0,1,.5-.5h5.5a.5.5,0,0,1,.5.5Z" transform="translate(0 -16)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8508" data-name="Group 8508" transform="translate(2.578 34.697)">
+      <g id="Group_8507" data-name="Group 8507" transform="translate(0 0)">
+        <rect id="Rectangle_1561" data-name="Rectangle 1561" width="2.756" height="0.974" transform="translate(0 1.949) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8510" data-name="Group 8510" transform="translate(4.68 32.276)">
+      <g id="Group_8509" data-name="Group 8509" transform="translate(0 0)">
+        <rect id="Rectangle_1562" data-name="Rectangle 1562" width="8.268" height="0.974" transform="translate(0 5.846) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8512" data-name="Group 8512" transform="translate(5.666 30.704)">
+      <g id="Group_8511" data-name="Group 8511" transform="translate(0)">
+        <rect id="Rectangle_1563" data-name="Rectangle 1563" width="4.134" height="0.974" transform="translate(0 2.923) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8514" data-name="Group 8514" transform="translate(23.808 34.207)">
+      <g id="Group_8513" data-name="Group 8513" transform="translate(0 0)">
+        <rect id="Rectangle_1564" data-name="Rectangle 1564" width="3.444" height="0.974" transform="translate(0 2.436) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8516" data-name="Group 8516" transform="translate(24.782 36.216)">
+      <g id="Group_8515" data-name="Group 8515" transform="translate(0 0)">
+        <rect id="Rectangle_1565" data-name="Rectangle 1565" width="3.444" height="0.974" transform="translate(0 2.436) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8518" data-name="Group 8518" transform="translate(13.193 21.669)">
+      <g id="Group_8517" data-name="Group 8517" transform="translate(0 0)">
+        <rect id="Rectangle_1566" data-name="Rectangle 1566" width="4.134" height="0.974" transform="translate(0 2.923) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8520" data-name="Group 8520" transform="translate(17.71 20.665)">
+      <g id="Group_8519" data-name="Group 8519" transform="translate(0 0)">
+        <rect id="Rectangle_1567" data-name="Rectangle 1567" width="4.134" height="0.974" transform="translate(0 2.923) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8522" data-name="Group 8522" transform="translate(14.683 24.671)">
+      <g id="Group_8521" data-name="Group 8521" transform="translate(0 0)">
+        <rect id="Rectangle_1568" data-name="Rectangle 1568" width="2.756" height="0.974" transform="translate(0 1.949) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8524" data-name="Group 8524" transform="translate(17.187 18.58)">
+      <g id="Group_8523" data-name="Group 8523" transform="translate(0 0)">
+        <rect id="Rectangle_1569" data-name="Rectangle 1569" width="2.763" height="0.974" transform="translate(0 1.954) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8526" data-name="Group 8526" transform="translate(3.472 18.032)">
+      <g id="Group_8525" data-name="Group 8525" transform="translate(0 0)">
+        <rect id="Rectangle_1570" data-name="Rectangle 1570" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8528" data-name="Group 8528" transform="translate(6.845 18.032)">
+      <g id="Group_8527" data-name="Group 8527" transform="translate(0 0)">
+        <rect id="Rectangle_1571" data-name="Rectangle 1571" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_8530" data-name="Group 8530" transform="translate(6.859 18.032)">
+      <g id="Group_8529" data-name="Group 8529" transform="translate(0 0)">
+        <rect id="Rectangle_1572" data-name="Rectangle 1572" width="2.132" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.38" height="35.986" viewBox="0 0 41.38 35.986">
+  <g id="icon_slack" transform="translate(-535.5 -3345.5)">
+    <g id="conversation-speech-bubbles-" transform="translate(536 3345.065)">
+      <path id="Path_9614" data-name="Path 9614" d="M20.19.935C9.039.935,0,8.039,0,16.8A14.169,14.169,0,0,0,5.347,27.554c-.127,2.754-.7,6.458-2.717,8.367,3.856,0,7.8-2.538,10.147-4.367a24.939,24.939,0,0,0,7.413,1.108c11.151,0,20.19-7.1,20.19-15.863S31.34.935,20.19.935Z" transform="translate(0 0)" fill="none" stroke="#ec407a" stroke-width="1"/>
+    </g>
+    <g id="slack" transform="translate(545.764 3351.755)">
+      <path id="Path_9615" data-name="Path 9615" d="M246.632,1.282a1.841,1.841,0,0,0-3.5,1.138l4.761,14.65a1.842,1.842,0,0,0,3.5-1.137C251.38,15.9,246.632,1.282,246.632,1.282Z" transform="translate(-233.227 0)" fill="#ffc107"/>
+      <path id="Path_9616" data-name="Path 9616" d="M63.9,60.659A1.841,1.841,0,1,0,60.4,61.8l4.761,14.649a1.842,1.842,0,0,0,3.5-1.137Z" transform="translate(-57.875 -56.98)" fill="#4caf50"/>
+      <path id="Path_9617" data-name="Path 9617" d="M76.376,246.639a1.841,1.841,0,1,0-1.138-3.5L60.588,247.9a1.842,1.842,0,0,0,1.137,3.5Z" transform="translate(-56.977 -233.224)" fill="#ec407a"/>
+      <path id="Path_9618" data-name="Path 9618" d="M138,324.265l3.5-1.138-1.138-3.5-3.5,1.138Z" transform="translate(-131.34 -306.711)" fill="#472a49"/>
+      <path id="Path_9619" data-name="Path 9619" d="M320.756,264.842l3.5-1.138-1.138-3.5-3.5,1.138Z" transform="translate(-306.714 -249.687)" fill="#cc2027"/>
+      <path id="Path_9620" data-name="Path 9620" d="M17,63.919a1.841,1.841,0,1,0-1.138-3.5L1.214,65.178a1.842,1.842,0,0,0,1.137,3.5Z" transform="translate(0 -57.882)" fill="#2196f3"/>
+      <path id="Path_9621" data-name="Path 9621" d="M78.643,141.513l3.5-1.138c-.43-1.323-.829-2.553-1.138-3.5l-3.5,1.138Z" transform="translate(-74.377 -131.338)" fill="#1a937d"/>
+      <path id="Path_9622" data-name="Path 9622" d="M261.364,82.122l3.5-1.138c-.43-1.324-.831-2.554-1.138-3.5l-3.5,1.138Z" transform="translate(-249.72 -74.344)" fill="#65863a"/>
+    </g>
+  </g>
+</svg>

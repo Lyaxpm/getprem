@@ -1,0 +1,104 @@
+@import url('../../external.html?link=https://fonts.googleapis.com/css?family=Roboto&amp;display=swap');
+/* ----------------------------------------
+    animation scale-up-hor-left
+---------------------------------------- */
+.scale-up-hor-left {
+    -webkit-animation: scale-up-hor-left 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+            animation: scale-up-hor-left 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@-webkit-keyframes scale-up-hor-left {
+    0% {
+        -webkit-transform: translateX(-100%) translateY(-50%);
+                transform: translateX(-100%) translateY(-50%);
+        -webkit-transform-origin: 0 0;
+                transform-origin: 0 0;
+    }
+
+    100% {
+        -webkit-transform: translateX(0) translateY(-50%);
+                transform: translateX(0) translateY(-50%);
+        -webkit-transform-origin: 0 0;
+                transform-origin: 0 0;
+    }
+}
+
+@keyframes scale-up-hor-left {
+    0% {
+        -webkit-transform: translateX(-100%) translateY(-50%);
+                transform: translateX(-100%) translateY(-50%);
+        -webkit-transform-origin: 0 0;
+                transform-origin: 0 0;
+    }
+
+    100% {
+        -webkit-transform: translateX(0) translateY(-50%);
+                transform: translateX(0) translateY(-50%);
+        -webkit-transform-origin: 0 0;
+                transform-origin: 0 0;
+    }
+}
+
+/* ------------------------------------------ */
+
+.cdgk__notification {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    overflow: hidden;
+    width: 150px;
+    padding: 15px 0;
+    transition: 0.3s;
+    transition: all 0.3s ease 0s;
+    transform: translateY(-50%);
+    z-index: 9999;
+}
+.cdgk__notification ul {
+    margin: 0 15px 0 0;
+    padding: 0;
+}
+.cdgk__notification ul li {
+    font-size: 16px;
+    display: block;
+    list-style: none;
+    color: #FFF;
+}
+.cdgk__notification ul li + li {
+    padding-top: 10px;
+}
+.cdgk__notification ul li a {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    padding: 10px 15px 7px;
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+    box-shadow: 0 4px 12px 1px rgba(0, 0, 0, 0.12);
+}
+.cdgk__icon {
+}
+.cdgk__text {
+    margin-left: 10px;
+}
+.cdgk__text svg {
+    transition: all 0.3s ease 0s;
+    white-space: nowrap;
+    opacity: 1;
+}
+.cdgk__notification-close {
+    width: 70px;
+}
+.cdgk__notification-close .cdgk__text svg {
+    opacity: 0;
+}
+.cdgk__notification:hover {
+    width: 150px;
+}
+.cdgk__notification:hover .cdgk__text svg {
+    opacity: 1;
+}
+.cdgk__notification li svg {
+    overflow: inherit;
+    vertical-align: inherit;
+}

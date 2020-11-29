@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_990" data-name="Rectangle 990" width="102" height="102" transform="translate(620 2250)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon_megashop" transform="translate(-620 -2250)" clip-path="url(#clip-path)">
+    <g id="shopping-cart_8_" data-name="shopping-cart (8)" transform="translate(608.965 2241.001)">
+      <g id="Group_8691" data-name="Group 8691" transform="translate(16.135 13.062)">
+        <path id="Path_12575" data-name="Path 12575" d="M308.588,417.6a7.849,7.849,0,0,0-7.788,7.979,7.79,7.79,0,1,0,7.788-7.979Zm0,11.959a3.835,3.835,0,0,1-3.789-4,3.794,3.794,0,1,1,3.789,4Z" transform="translate(-245.942 -339.801)" fill="#f9556d"/>
+        <path id="Path_12576" data-name="Path 12576" d="M86.488,417.6a7.849,7.849,0,0,0-7.788,7.979,7.974,7.974,0,0,0,7.788,7.979,7.849,7.849,0,0,0,7.788-7.979,7.974,7.974,0,0,0-7.788-7.979Zm0,11.959a3.835,3.835,0,0,1-3.789-4,3.972,3.972,0,0,1,3.789-4,3.835,3.835,0,0,1,3.789,4A3.946,3.946,0,0,1,86.488,429.559Z" transform="translate(-66.339 -339.801)" fill="#f9556d"/>
+        <path id="Path_12577" data-name="Path 12577" d="M95.5,11,92.4,23.169H14.1l14.446,42.8a9.922,9.922,0,0,0-8.457,10.065,10.092,10.092,0,0,0,9.969,10.371H84.322V82.619H30.058a6.108,6.108,0,0,1-5.989-6.391,6.23,6.23,0,0,1,5.989-6.391H84.514L98.673,14.98h7.979V11H95.5ZM81.529,65.858H32.66L19.687,27.149H91.306Z" transform="translate(-14.1 -11)" fill="#f9556d"/>
+        <rect id="Rectangle_1627" data-name="Rectangle 1627" width="3.999" height="22.54" transform="translate(25.334 25.525)" fill="#f9556d"/>
+        <rect id="Rectangle_1628" data-name="Rectangle 1628" width="3.999" height="22.54" transform="translate(39.512 25.525)" fill="#f9556d"/>
+        <rect id="Rectangle_1629" data-name="Rectangle 1629" width="3.999" height="22.54" transform="translate(53.671 25.525)" fill="#f9556d"/>
+      </g>
+    </g>
+  </g>
+</svg>

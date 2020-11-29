@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_992" data-name="Rectangle 992" width="102" height="102" transform="translate(492 4422)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon_dispensary" transform="translate(-492 -4422)" clip-path="url(#clip-path)">
+    <g id="drugs" transform="translate(503 4433)">
+      <g id="Group_8262" data-name="Group 8262" transform="translate(0 -0.001)">
+        <path id="Path_6198" data-name="Path 6198" d="M69.405,40.62l4.546-4.546A21.129,21.129,0,0,0,44.07,6.193L6.194,44.069A21.129,21.129,0,1,0,36.075,73.951L40.621,69.4A21.126,21.126,0,1,0,69.405,40.62ZM37.881,59.01a21.083,21.083,0,0,0,.784,5.71L32.755,70.63A16.434,16.434,0,0,1,9.514,47.389L26.648,30.255,42.382,45.988A21.025,21.025,0,0,0,37.881,59.01ZM56.663,75.275a16.434,16.434,0,0,1,0-32.531ZM45.671,42.637l-15.7-15.7L47.39,9.513A16.434,16.434,0,0,1,70.631,32.754L64.72,38.665a21.109,21.109,0,0,0-19.049,3.972ZM61.358,75.275V42.744a16.434,16.434,0,0,1,0,32.531Z" transform="translate(0 0.001)" fill="#f9556d"/>
+      </g>
+    </g>
+  </g>
+</svg>

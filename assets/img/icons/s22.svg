@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="0 0 116 116">
+  <g id="icon_increasesales" transform="translate(-879 -1620)">
+    <g id="bar-graph" transform="translate(905 1646)">
+      <path id="Path_6070" data-name="Path 6070" d="M60,10H4a2,2,0,0,0-2,2v7H17l2-2H62V12A2,2,0,0,0,60,10Z" fill="#f9556d"/>
+      <path id="Path_6071" data-name="Path 6071" d="M15,15H13V13h2Zm-4,0H9V13h2ZM7,15H5V13H7Z"/>
+      <path id="Path_6072" data-name="Path 6072" d="M60,9H4a3,3,0,0,0-3,3V52a3,3,0,0,0,3,3H60a3,3,0,0,0,3-3V12A3,3,0,0,0,60,9Zm1,43a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V12a1,1,0,0,1,1-1H60a1,1,0,0,1,1,1Z" fill="#01358d"/>
+      <path id="Path_6073" data-name="Path 6073" d="M48,19v2h7.586L39,37.586l-11-11L5.293,49.293l1.414,1.414L13,44.414V51h6V38.414l2-2V51h6V30.414l1-1,1,1V51h6V36.414l2,2V51h6V36.414l2-2V51h6V28.414l6-6V30h2V19ZM17,49H15V42.414l2-2Zm8,0H23V34.414l2-2Zm8,0H31V32.414l2,2Zm8,0H39V40.414l2-2Zm8,0H47V32.414l2-2Z" fill="#01358d"/>
+      <path id="Path_6074" data-name="Path 6074" d="M5,21H21V31H5Z" fill="#32e2a9"/>
+      <path id="Path_6075" data-name="Path 6075" d="M5,21H7v2H5Z" fill="#01358d"/>
+      <path id="Path_6076" data-name="Path 6076" d="M9,21H21v2H9Z" fill="#01358d"/>
+      <path id="Path_6077" data-name="Path 6077" d="M5,25H7v2H5Z" fill="#01358d"/>
+      <path id="Path_6078" data-name="Path 6078" d="M9,25H21v2H9Z" fill="#01358d"/>
+      <path id="Path_6079" data-name="Path 6079" d="M5,29H7v2H5Z" fill="#01358d"/>
+      <path id="Path_6080" data-name="Path 6080" d="M9,29H21v2H9Z" fill="#01358d"/>
+    </g>
+    <g id="Ellipse_1754" data-name="Ellipse 1754" transform="translate(879 1620)" fill="none" stroke="#01358d" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4">
+      <circle cx="58" cy="58" r="58" stroke="none"/>
+      <circle cx="58" cy="58" r="57" fill="none"/>
+    </g>
+  </g>
+</svg>
