@@ -1,13 +1,14 @@
 <?php
-$check_website = $konek->query("SELECT * FROM website WHERE id ='1'");
-$data_website = $check_website->fetch_assoc();
-require 'csrf.php';
-?>
 //************************************************
 // Sceipt By Rud Az ( Dilarang Ganti Copy Right )
 // [ fb.me/rud.az.9 ] Jan lup add
 // [ wa : 085730882379 ]
 //************************************************
+
+$check_website = $konek->query("SELECT * FROM website WHERE id ='1'");
+$data_website = $check_website->fetch_assoc();
+require 'csrf.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
